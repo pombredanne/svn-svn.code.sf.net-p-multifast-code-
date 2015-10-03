@@ -1,9 +1,0 @@
-TODO List:
-----------
-
-- Develop test units
-- Support ASCII case insensitivity in the library
-- Add a thread example
-- Implement a version of ahocorasick for Linux kernel
-- Save/Load automata to/from file
-- Support character mapping

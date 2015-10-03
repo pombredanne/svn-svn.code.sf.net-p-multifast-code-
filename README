@@ -1,4 +1,4 @@
-MultiFast __MF_VERSION_NUMBER__
+MultiFast 2.0.0
 ---------------
 
 MultiFast is a fast multiple string search and replace tool which uses Aho-Corasick 
@@ -21,7 +21,7 @@ BUILD AND RUN
 
 Get package and unzip it:
 
-$ tar -zxvf multifast-v__MF_VERSION_NUMBER__.tar.gz
+$ tar -zxvf multifast-v2.0.0.tar.gz
 
 In order to compile applications you should first compile the library:
 
